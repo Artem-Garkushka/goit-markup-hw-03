@@ -1,0 +1,135 @@
+body {
+  background-color: #ffffff;
+  color: #434455;
+  font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style:none;
+}
+/* header */
+.header-logo,
+.footer-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.header-accent {
+  color: #2e2f42;
+}
+.header-menu-list-item{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.header-menu-list-items{
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.header-menu-list-items:hover,
+.header-menu-list-items:focus,
+.header-menu-list-item:hover,
+.header-menu-list-item:focus{
+  color: #404bbf;
+}
+address {
+  font-style: normal;
+  font-weight: 400;
+}
+/* main */
+/* one-section */
+.main-title-t{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color:#ffffff;
+}
+.main-hero{
+    background-color: #2e2f42;
+}
+.main-button{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.main-button:hover,
+.main-button:focus{
+    background-color: #404BBF;
+}
+/* two-section */
+.main-title-tech{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.main-text-on{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* three-section */
+.main-our-team{
+    background-color: #F4F4FD;
+}
+.main-menu-list{
+    background-color: #FFFFFF
+}
+.main-title-g{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.main-title-gt{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.main-text-t{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* four-section */
+.main-title-op{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:#2e2f42;
+}
+/* footer */
+.footer {
+  background-color: #2e2f42;
+}
+.footer-accent {
+  color: #f4f4fd;
+}
+.footer-text {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
