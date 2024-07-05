@@ -7,9 +7,23 @@ a{
     text-decoration: none;
 }
 ul{
+  display: flex;
     list-style:none;
 }
+img{
+  display: block;
+}
 /* header */
+.header-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+.container{
+  width: 1440px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .header-logo,
 .footer-logo {
   font-family: 'Raleway', sans-serif;
