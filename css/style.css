@@ -14,15 +14,25 @@ img{
   display: block;
 }
 /* header */
+.header{
+  border-bottom: 1px solid #e7e9fc;
+}
+.h-one{
+  width: 496px;
+}
 .header-container{
   display: flex;
+  gap:40px;
+  padding: 24px 0;
 }
 .container{
-  max-width: 1470px;
+  max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
 }
-
+.header-logo{
+  margin-right: 76px;
+}
 .header-logo,
 .footer-logo {
   font-family: 'Raleway', sans-serif;
@@ -55,6 +65,10 @@ img{
 .header-menu-list-item:hover,
 .header-menu-list-item:focus{
   color: #404bbf;
+}
+nav{
+  display: flex;
+  align-items: center;
 }
 address {
   font-style: normal;
