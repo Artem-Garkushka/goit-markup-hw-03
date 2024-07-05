@@ -16,12 +16,11 @@ img{
 /* header */
 .header-container{
   display: flex;
-  flex-wrap: wrap;
 }
 .container{
-  width: 1440px;
-  padding-left: 15px;
-  padding-right: 15px;
+  max-width: 1470px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 .header-logo,
@@ -134,6 +133,10 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+}
+.main-soc-list{
+  display: flex;
+  flex-wrap: wrap;
 }
 /* footer */
 .footer {
