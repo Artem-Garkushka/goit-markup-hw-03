@@ -7,7 +7,7 @@ a{
 }
 ul{
   display: flex;
-    list-style:none;
+  list-style:none;
 }
 img{
   display: block;
@@ -139,6 +139,9 @@ address {
     letter-spacing: 0.02em;
 }
 /* four-section */
+.main-our-portfolio{
+  padding: 120px 0;
+}
 .main-title-op{
     font-size: 36px;
     line-height: 1.11;
@@ -146,10 +149,26 @@ address {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;
+    margin-bottom: 72px;
 }
 .main-soc-list{
   display: flex;
   flex-wrap: wrap;
+}
+.main-menu-text{
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+}
+.menu-list{
+  margin-right: 24px;
+  margin-bottom:48px;
+}
+.menu-list-two{
+  margin-bottom:0;
+}
+.main-title-gt{
+  margin-bottom: 8px;
 }
 /* footer */
 .footer {
