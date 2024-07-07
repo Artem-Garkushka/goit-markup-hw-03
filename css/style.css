@@ -141,15 +141,14 @@ address {
 }
 .main-menu-list{
   width: calc((100% - 72px) / 4);
+  gap:24px;
 }
 .main-text-on{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.main-soc-list{
-  gap:24px;
-}
+
 /* three-section */
 .main-our-team{
     background-color: #F4F4FD;
