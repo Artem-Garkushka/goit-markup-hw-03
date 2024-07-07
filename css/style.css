@@ -71,10 +71,12 @@ img{
 nav{
   display: flex;
   align-items: center;
+  gap:76px;
 }
 address {
   font-style: normal;
   font-weight: 400;
+  margin-left: auto;
 }
 /* main */
 /* one-section */
@@ -115,8 +117,10 @@ address {
 }
 /* two-section */
 .main-technologies{
-  padding:120px;
   padding: 120px 0;
+}
+.main-soc-list-tech{
+  gap:24px;
 }
 .main-title-tech{
   font-weight: 500;
@@ -141,7 +145,6 @@ address {
 }
 .main-menu-list{
   width: calc((100% - 72px) / 4);
-  gap:24px;
 }
 .main-text-on{
     font-size: 16px;
@@ -207,6 +210,9 @@ address {
 }
 .menu-list-two{
   margin-bottom: 0;
+}
+.menu-list{
+  width: calc((100% - 48px) / 3);
 }
 /* footer */
 .footer {
