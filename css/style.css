@@ -53,6 +53,7 @@ img{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    padding: 24px 0;
 }
 .header-menu-list-items{
     color: #2e2f42;
@@ -60,6 +61,7 @@ img{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    /* padding: 24px 0; */
 }
 .header-menu-list-items:hover,
 .header-menu-list-items:focus,
@@ -111,9 +113,6 @@ address {
 .main-button:hover,
 .main-button:focus{
     background-color: #404BBF;
-}
-.header-menu-list{
-  padding: 24px 0;
 }
 /* two-section */
 .main-technologies{
