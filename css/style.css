@@ -22,6 +22,10 @@ img{
   gap:40px;
   padding: 24px 0;
 }
+.header-soc-list{
+  gap:40px;
+  padding: 24px 0;
+}
 .container{
   max-width: 1158px;
   padding: 0 15px;
