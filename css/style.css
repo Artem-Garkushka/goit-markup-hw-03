@@ -112,6 +112,9 @@ address {
 .main-button:focus{
     background-color: #404BBF;
 }
+.header-menu-list{
+  padding: 24px 0;
+}
 /* two-section */
 .main-technologies{
   padding:120px;
