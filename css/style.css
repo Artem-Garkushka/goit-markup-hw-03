@@ -146,9 +146,6 @@ address {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.main-menu-list-tech{
-  width:calc((100% - 3 * 24px) / 4);
-}
 .main-text-on{
     font-size: 16px;
     line-height: 1.5;
