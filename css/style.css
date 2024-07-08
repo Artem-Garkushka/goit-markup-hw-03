@@ -144,21 +144,21 @@ address {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.main-menu-list{
-  /* width: calc((100% - 3 * 24px) / 4); */
+.main-menu-list-tech{
+  width:calc((100% - 3 * 24px) / 4);
 }
 .main-text-on{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
 /* three-section */
 .main-our-team{
     background-color: #F4F4FD;
 }
 .main-menu-list{
-    background-color: #FFFFFF
+  background-color: #FFFFFF;
+  width:calc((100% - 3 * 24px) / 4);
 }
 .main-title-g{
     font-size: 36px;
@@ -208,12 +208,10 @@ address {
 }
 .menu-list{
   width: calc((100% - 48px) / 3);
+  
 }
 .menu-list-two{
   margin-bottom: 0;
-}
-.menu-list{
-  width: calc((100% - 48px) / 3);
 }
 /* footer */
 .footer {
