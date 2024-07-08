@@ -232,7 +232,7 @@ address {
   margin: 0;
   padding: 0;
 }
-.menu-list-two{
+.menu-list:(n + 4){
   margin-bottom: 0;
 }
 /* footer */
