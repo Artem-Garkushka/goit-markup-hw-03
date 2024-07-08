@@ -125,7 +125,6 @@ address {
   margin: 0;
   padding: 0;
   gap:24px;
-  width: calc((100% - 72px) / 4);
 }
 .main-title-tech{
   font-weight: 500;
@@ -157,7 +156,6 @@ address {
   width: calc((100% - 72px) / 4);
   margin: 0;
   padding: 0;
-  gap: 24px;
 }
 /* three-section */
 .main-our-team{
