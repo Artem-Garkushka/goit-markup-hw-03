@@ -33,7 +33,7 @@ img {
   margin: 0 auto;
 }
 .header-logo {
-  margin-left: auto;
+  margin-right: 76px;
 }
 .header-logo,
 .footer-logo {
@@ -229,7 +229,7 @@ address {
   padding: 0;
 }
 .main-title-gtf {
-  margin:0 0 8px 0;
+  margin-bottom:8px;
   padding: 0;
 }
 .main-text-tf{
@@ -271,7 +271,7 @@ address {
 }
 .footer-logo {
   display: inline-block;
-  margin-bottom: 0 0 16px 0;
+  margin-bottom: 16px;
   padding: 0;
 }
 .footer-text {
