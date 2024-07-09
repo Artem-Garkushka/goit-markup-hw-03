@@ -195,7 +195,7 @@ address {
   color: #2e2f42;
   text-align: center;
   padding: 0;
-  margin: 0;
+  margin-right: 8px;
 }
 .main-text-t {
   line-height: 1.5;
@@ -229,7 +229,7 @@ address {
   padding: 0;
 }
 .main-title-gtf {
-  margin-bottom:8px;
+  margin:0 0 8px 0;
   padding: 0;
 }
 .main-text-tf{
